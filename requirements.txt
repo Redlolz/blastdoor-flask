@@ -1,0 +1,4 @@
+Flask
+argon2-cffi
+pycryptodome
+riposte
